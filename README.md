@@ -1,3 +1,6 @@
+# Download
+Download compiled binaries from [here](https://github.com/dmossberg/AzureIpRangeValidator/blob/master/AzureIpRangeValidator.zip) 
+
 # Usage (for Windows)
 ```
 AzureIpRangeValidator.exe --logfile samplelog.csv --servicetagfile azureservicetags.json
