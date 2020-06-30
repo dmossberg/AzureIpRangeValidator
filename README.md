@@ -1,5 +1,5 @@
 # Download
-Download compiled binaries from [here](https://github.com/dmossberg/AzureIpRangeValidator/blob/master/AzureIpRangeValidator.zip) 
+Download compiled binaries from [here](https://github.com/dmossberg/AzureIpRangeValidator/raw/master/AzureIpRangeValidator.zip) 
 
 # Usage (for Windows)
 ```
