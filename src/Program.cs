@@ -26,10 +26,10 @@ namespace AzureIpRangeValidator
         [Option('v', "verbose", Required = false, Default = false, HelpText = "Verbose mode for troubleshooting errors")]
         public bool Verbose { get; set; }
 
-        [Option('t', "tab", Required = false, Default = false, HelpText = "Use tab (\\t) as delimiter for the CSV file, the default is a semicolon")]
+        [Option('t', "tab", Required = false, Default = false, HelpText = "Use tab (\\t) as delimiter for the CSV file, default is semicolon")]
         public bool UseTabDelimiter { get; set; }
 
-        [Option('c', "comma", Required = false, Default = false, HelpText = "Use comma (,) as delimiter for the CSV file (default is semicolon")]
+        [Option('c', "comma", Required = false, Default = false, HelpText = "Use comma (,) as delimiter for the CSV file, default is semicolon")]
         public bool UseCommaDelimiter { get; set; }
     }
 
